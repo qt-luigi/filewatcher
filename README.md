@@ -38,3 +38,15 @@ Each arguments are:
 		none or 0 is infinity loop.
 ```
 
+## License
+
+MIT
+
+## Author
+
+Ryuji Iwata
+
+## Note
+
+This tool is mainly using by myself. :-)
+
